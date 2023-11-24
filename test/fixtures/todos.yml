@@ -1,0 +1,18 @@
+# test/fixtures/todos.yml
+
+cat_task:
+  title: Walk the cat
+  completed: true
+
+fish_task:
+  title: Feed the fish
+  completed: false
+
+one:
+  title: MyString
+  completed: false
+
+two:
+  title: MyString
+  completed: false
+
